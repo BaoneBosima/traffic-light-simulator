@@ -1,0 +1,17 @@
+# Quartus compile database
+db/
+
+# Incremental compilation cache
+incremental_db/
+
+# Compiled output reports and programming files
+output_files/
+
+# Simulation run outputs
+simulation/
+
+# VHDL editor auto-backups
+*.vhd.bak
+
+# Quartus incremental compilation metadata
+cr_ie_info.json
